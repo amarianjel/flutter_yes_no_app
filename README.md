@@ -15,8 +15,8 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Node</th>
-      <th>Ts</th>
+      <th>Flutter</th>
+      <th>Dart</th>
     </tr>
   </thead>
   <tbody>
@@ -34,15 +34,36 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # Temas
--TextEditingControllers
--Focus Nodes
--ThemeData
--Widgets como:
--Containers
--SizeBox
--ListViews
--CustomWidgets
--Expanded
--Padding
--Image (desde internet)
--ClipRRect (bordes redondeados)
+## Primera parte
+* TextEditingControllers
+* Focus Nodes
+* ThemeData
+* Widgets como:
+* Containers
+* SizeBox
+* ListViews
+* CustomWidgets
+* Expanded
+* Padding
+* Image (desde internet)
+* ClipRRect (bordes redondeados)
+
+## Segunda parte
+* Gestores de estado
+* Mappers
+* Peticiones HTTP
+* Dio
+* Paquetes
+* Funciones que retornan valores como callbacks
+* Scroll
+* Provider
+
+
+## Paquetes
+```bash
+flutter pub add provider
+```
+Dio:
+```bash
+dart pub add dio
+```
